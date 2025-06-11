@@ -21,8 +21,8 @@ public class Ejercicio_4 {
             }
         }
  
-        System.out.println("La suma de los números pares desde 1 hasta " + numero + " es: " + sumaPares);
-        System.out.println("La suma de los números impares desde 1 hasta " + numero + " es: " + sumaImpares);
+        System.out.println("La suma de los numeros pares desde 1 hasta " + numero + " es: " + sumaPares);
+        System.out.println("La suma de los numeros impares desde 1 hasta " + numero + " es: " + sumaImpares);
         
         scanner.close();
 	}
